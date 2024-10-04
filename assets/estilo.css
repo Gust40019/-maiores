@@ -1,3 +1,10 @@
+*{
+   margin: 0;
+   padding: 0;
+}
+
+
+
 .conteudo{
    display: flex;
    justify-content: space-between;
@@ -15,6 +22,11 @@
    font-size: 28px;
    text-align: center;
    }
+ .cartao:houver{
+   background-color: brown;
+ }
+
+
    .cartao--resposta{
 font-size: 20px;
 
