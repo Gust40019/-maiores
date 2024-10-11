@@ -19,7 +19,21 @@
    flex-grow: 1;
    flex-basis: calc(33% - 6rem);
    margin: 1rem 1rem;
-   font-size: 28px;
+   font-size: 28px;*{
+      margin: 0;
+      padding: 0;
+   }
+   
+   
+   
+   .conteudo{
+      display: flex;
+      justify-content: space-between;
+   …
+      }
+   
+      
+   
    text-align: center;
    }
  .cartao:hover .cartao--conteudo{
