@@ -10,7 +10,7 @@ function criarCartao(pergunta, resposta){
        </div>`
 
         conteudo.
-conteudo.appChild(cartao)
+conteudo.appendChild(cartao)
 }
 criarCartao(1,2)
 criarCartao("peguntaX","respostaX")
