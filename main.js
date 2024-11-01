@@ -13,3 +13,4 @@ function criarCartao(pergunta, resposta){
 conteudo.appChild(cartao)
 }
 criarCartao(1,2)
+criarCartao("peguntaX","respostaX")
