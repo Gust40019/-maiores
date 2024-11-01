@@ -11,6 +11,7 @@
    height: 200px;
    width: 25rem;
    flex-grow: 1;
+   text-align: center;
    flex-basis: calc(33% - 6rem);
    margin: 1rem 1rem;
    font-size: 28px;*{
@@ -20,15 +21,7 @@
    
    
    
-   .conteudo{
-      display: flex;
-      justify-content: space-between;
-   …
-      }
-   
-      
-   
-   text-align: center;
+
    }
  .cartao:hover .cartao--conteudo{
    background-color: brown;
@@ -58,7 +51,7 @@ font-size: 20px;
   }
 
 
-   footer{
+  .rodape{
     background-color: black;
    color: #fff;
    position: fixed;
