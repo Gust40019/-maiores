@@ -5,10 +5,10 @@
 
 
 
-.conteudo{
+#conteudo{
    display: flex;
    justify-content: space-between;
-
+   flex-wrap: wrap;
 }
 .cartao{
    background-color: aqua;
